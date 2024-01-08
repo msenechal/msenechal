@@ -24,7 +24,6 @@ I'm a **Principal Consultant** at [Neo4j](https://neo4j.com/), specializing in *
 
 ### 💻 My Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,openshift&theme=dark" /> <br>
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux&theme=dark" /> <br>
     <img src="https://skillicons.dev/icons?i=java,js,nodejs,react,typescript,py,fastapi,php&theme=dark" />
@@ -32,7 +31,6 @@ I'm a **Principal Consultant** at [Neo4j](https://neo4j.com/), specializing in *
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,ansible,jenkins&theme=dark" />
     <br>
     <img src="https://skillicons.dev/icons?i=idea,vscode&theme=dark" />
-  </a>
 </p>
 
 ## 📖 My Latest Articles
