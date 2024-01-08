@@ -1,8 +1,19 @@
-# 👋 Hi, I'm Morgan Senechal
+[![Header](assets/github-cover.jpg)](https://github.com/msenechal)
+
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/morgan-senechal/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:senechal.morgan@gmail.com?subject=Hello%20Morgan,%20From%20Github)
+
+</div>
 
 ## 🚀 About Me
-![Header Neo4j](neo4j-header.png)
 I'm a **Principal Consultant** at [Neo4j](https://neo4j.com/), specializing in **Graph Technologies**. With a rich background in **Data Management, Big Data Analytics, and Security**, I've worked across various sectors like telecom, finance, and fraud detection, contributing significantly to product development and innovation.
+
+### 🌍 Industries
+- 📡 **Telecom**
+- 💰 **Finance**
+- 🔍 **Fraud Detection**
 
 ### 📈 My Expertise
 - **Database Technologies**: Specializing in Neo4j, I bring complex data relationships to life, aiding in decision-making and insights but also have a strong background in SQL and NoSQL Databases.
@@ -11,29 +22,39 @@ I'm a **Principal Consultant** at [Neo4j](https://neo4j.com/), specializing in *
 - **Big Data Analytics**: Turning vast data into actionable insights.
 - **Product Development**: Innovating and improving technology solutions.
 
-### 🌍 Industries I've Impacted
-- 📡 **Telecom**
-- 💰 **Finance**
-- 🔍 **Fraud Detection**
+### 💻 My Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,openshift&theme=dark" /> <br>
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux&theme=dark" /> <br>
+    <img src="https://skillicons.dev/icons?i=java,js,nodejs,react,typescript,py,fastapi,php&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,ansible,jenkins&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=idea,vscode&theme=dark" />
+  </a>
+</p>
+
+## 📖 My Latest Articles
+<p align="center">
+    <a target="_blank"href="#"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="#"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://medium.com/@morgan-senechal"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
+
+- [One login to rule them all: Integrate Neo4j with Azure SSO](https://medium.com/neo4j/how-to-integrate-neo4j-with-sso-on-azure-one-login-to-rule-them-all-3492b41a9aa8)
+- [Needle StarterKit: The Ultimate Tool for Accelerating Your Graph App Projects](https://medium.com/neo4j/needle-starterkit-the-ultimate-tool-for-accelerating-your-graph-app-projects-1eb175064faf)
 
 ## 🌟 Highlights of My Journey
 - 🛠️ Developed integration, features and functionalities to extend product capabilities to answer the customer needs.
 - 💡 Regularly contribute to [Neo4j Developer Blog](https://medium.com/neo4j).
 - 🚀 Offer professional consulting, deployment, training, and troubleshooting expertise.
 
-## 📚 Continuous Learning
-I'm always on the lookout for new technologies and methodologies to enhance my skills and keep up with the ever-evolving IT landscape.
-
 ## 🤝 Connect With Me
 - 📧 Email: [morgan.senechal@neo4j.com](mailto:morgan.senechal@neo4j.com)
 - 💼 LinkedIn: [Morgan Senechal](https://www.linkedin.com/in/morgan-senechal/)
 - 📕 Medium: [@morgan-senechal](https://medium.com/@morgan-senechal)
 
-## 📖 My Latest Articles
-- [One login to rule them all: Integrate Neo4j with Azure SSO](Link_to_your_article)
-- [Needle StarterKit: The Ultimate Tool for Accelerating Your Graph App Projects](Link_to_your_article)
 
 ---
-
-> *“In the world of data, graph technology is the future. And I am excited to be a part of this evolving story!”* - **Morgan Senechal**
 
