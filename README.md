@@ -37,9 +37,9 @@ I'm a **Principal Consultant** at [Neo4j](https://neo4j.com/), specializing in *
 
 ## 📖 My Latest Articles
 <p align="center">
-    <a target="_blank"href="#"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
-    <a target="_blank"href="#"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
     <a target="_blank"href="https://medium.com/@morgan-senechal"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://dev.to/msenechal"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="#"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
 - [One login to rule them all: Integrate Neo4j with Azure SSO](https://medium.com/neo4j/how-to-integrate-neo4j-with-sso-on-azure-one-login-to-rule-them-all-3492b41a9aa8)
