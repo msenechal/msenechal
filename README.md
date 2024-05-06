@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Portfolio](assets/portfolio.png)](https://www.morgansenechal.com/) &nbsp;
+[![Portfolio](https://skillicons.dev/icons?i=rocket)](https://www.morgansenechal.com/) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/morgan-senechal/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:senechal.morgan@gmail.com?subject=Hello%20Morgan,%20From%20Github)
 
